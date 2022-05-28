@@ -1,2 +1,2 @@
-# python-e-itim
+# python-egitim
 haftasonu eğitimleri
